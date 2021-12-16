@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mrs",
+                "first": "Suzy",
+                "last": "Bates"
+            },
+            "location": {
+                "street": {
+                    "number": 7546,
+                    "name": "Albert Road"
+                },
+                "city": "Tuam",
+                "state": "Cavan",
+                "country": "Ireland",
+                "postcode": 42038,
+                "coordinates": {
+                    "latitude": "16.3511",
+                    "longitude": "89.7498"
+                },
+                "timezone": {
+                    "offset": "+2:00",
+                    "description": "Kaliningrad, South Africa"
+                }
+            },
+            "email": "suzy.bates@example.com",
+            "login": {
+                "uuid": "f0a8c0e0-5fda-4a33-b645-6c0a908db83d",
+                "username": "goldengorilla782",
+                "password": "cornell",
+                "salt": "9ZNQmm0y",
+                "md5": "97d40b56785f1de08ea9a1ee35212756",
+                "sha1": "34b3c96733bb92c06ac145bb361378cd1437e8f5",
+                "sha256": "cb573e734f58c6f7f92575fc060004aa68b2475f86e4943f9fdf44a08278d3af"
+            },
+            "dob": {
+                "date": "1944-11-30T07:01:05.770Z",
+                "age": 77
+            },
+            "registered": {
+                "date": "2014-03-23T19:51:34.718Z",
+                "age": 7
+            },
+            "phone": "011-587-5285",
+            "cell": "081-757-6185",
+            "id": {
+                "name": "PPS",
+                "value": "9824215T"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/55.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/55.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/55.jpg"
+            },
+            "nat": "IE"
+        }
+    ],
+    "info": {
+        "seed": "1b59635c2a2569eb",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}
