@@ -1,7 +1,7 @@
 import React, { useState, Image } from 'react'
 
 const api = {
-    key: "ba99fe973bb9c8b0169e3a3376284990",
+    key: "REDACTED",
     base: "https://api.openweathermap.org/data/2.5/"
 }
 
