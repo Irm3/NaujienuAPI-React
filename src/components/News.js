@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react'
 import SearchForm from './SearchForm'
 
 const api = {
-    key: "LzGpAwmL2ADrmDy5AxGvNB9FhekFq5sR"
+    key: "REDACTED"
 }
 
 const News = () => {
